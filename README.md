@@ -7,4 +7,5 @@ Welcome to my GitHub profile! I'm a sophomore at the Indian Institute of Technol
 - 🌱 I’m currently learning: Machine Learning
 - 💬 Ask me about: Artificial Intelligence
 - 📫 How to reach me: rudrajadon18@gmail.com
+  
 Thank you for visiting my profile! Feel free to reach out if you want to connect or collaborate on any projects.
