@@ -1,6 +1,6 @@
 # Hi, I'm Rudra Pratap Singh Jadon 👋
 
-### 🎓 3rd Year Undergraduate at IIT Indore
+### 🎓 4th Year Undergraduate at IIT Indore
 
 I am a 3rd-year student at **IIT Indore** with a deep passion for contributing to **open-source projects**. I am increasingly focused on **Machine Learning and Artificial Intelligence**, exploring how intelligent algorithms can be integrated into scalable web architectures. I believe that the future of technology lies at the intersection of robust engineering and data-driven innovation, and I'm constantly looking for ways to build impactful solutions for the global developer community.
 
